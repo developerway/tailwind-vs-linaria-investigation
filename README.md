@@ -1,10 +1,10 @@
-# Study project for the article "SSR deep dive for React developers"
+# Study project for the article "Tailwind vs Linaria: Performance Investigation"
 
-Article: [SSR deep dive for React developers](http://developerway.com/posts/ssr-deep-dive-for-react-developers)
+Article: [Tailwind vs Linaria: Performance Investigation](https://www.developerway.com/posts/tailwind-vs-linaria-performance)
 
 ## How to run the project
 
 1. Clone the repository
 2. Run `npm install`
 3. Run `npm run build`
-4. Run `npm run start`
+4. Run `npm run preview`
